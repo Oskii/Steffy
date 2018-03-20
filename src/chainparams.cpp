@@ -85,8 +85,8 @@ public:
         consensus.BIP65Height = 0;
         consensus.BIP66Height = 0;
         consensus.powLimit = uint256S("7fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff");
-        consensus.nPowTargetTimespan = 1; // 1 Block
-        consensus.nPowTargetSpacing = 30; // 30 Second Block Time
+        consensus.nPowTargetTimespan = 60 * 10; // 10 Blocks
+        consensus.nPowTargetSpacing = 60; // 1 Minute Block Time
         consensus.fPowAllowMinDifficultyBlocks = false;
         consensus.fPowNoRetargeting = false;
         consensus.nRuleChangeActivationThreshold = std::ceil(consensus.nMinerConfirmationWindow * 0.95); // 95% of nMinerConfirmationWindow	0
