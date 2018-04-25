@@ -6,9 +6,9 @@ https://Steffycoin.io
 What is Steffy?
 ---------------------
 
-Steffy is a cryptocurrency designed to help the animals
+Steffy is a cryptocurrency designed to be used as a coupon for fashion purchases
 
-Miners of Steffy will generate a coins for a vegan charity fund which is used to help vegan initiatives
+Miners of Steffy will generate a coins for themselves, or they can buy them to get discounts on their favourite brands
 
 License
 -------
